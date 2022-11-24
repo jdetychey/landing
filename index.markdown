@@ -24,37 +24,50 @@ Whatever the quality of the content and the perceived value of the blockchain, s
 
 The Alembic was iteratively crafted for us to onboard thousands of users unfamiliar with cryptocurrency or blockchain.  We had to withstand traction on an initially naive tech stack and we gradually optimized each component.  
 
-The platform architecture has 4 main layers which can be used together or separately. 
+The platform architecture has 4 main layers which can be used together or separately :
 
-| Specialized APIs | Indexing Engine & Transaction Relaying |
-| --- | --- |
-| Smart-Contract suite | App-chain: Rollup infrastructure as a service |
+>### Specialized APIs
+>
+>An application cannot efficiently fetch data from a blockchain node RPC endpoint.  The Alembic exposes robust yet flexible specialized APIs to launch Blockchain products.  The complexity is abstracted for all monetization and front-end use cases (NFT Metadata, AMM, Marketplace, Rental system). {read the doc}
 
-### ⚗️ Specialized APIs
+>### Smart-Contract suite
+>
+>The Alembic smart-contract suite is designed to manage NFT use cases in Web3 projects.  The entire codebase has been both audited and battle-tested by tens of thousands of unique users.  Covered stories range from:
+>
+>- NFT distribution, with or without allow list, voucher control and gating,
+>- NFT Rental, with or without collateral, reward distribution and sub-rental,
+>- NFT Crafting, with or without lootbox, token (ERC20 or NFT) sources and market price control,
+>- Advanced DeFi protocol integrations
+>
+>[Public repository](/usecases/discord)
 
-An application cannot efficiently fetch data from a blockchain node RPC endpoint.  The Alembic exposes robust yet flexible specialized APIs to launch Blockchain products.  The complexity is abstracted for all monetization and front-end use cases (NFT Metadata, AMM, Marketplace, Rental system). {read the doc}
+>### Indexing Engine & Transaction Relaying
+>
+>An indexing and querying engine beats at the heart of the Alembic. Its powerful set of listeners retrieve and store blockchain events. The engine gives a cheap and efficient access to consistent on-chain data in motion, even in cases of reorgs or inconsistencies.
+>
+>The complexity of writing in the blockchain, wether it is for the application or its users, is taken care of by the Alembic transaction relay service.  It offers a seamless experience that gets rid of the edge cases and gas management hiccups. [Read the documentation](/usecases/discord)
 
-### ⚗️ Smart-Contract suite
+>### App-chain: Rollup as a service
+>
+>The most blockchain heavy applications need their own execution layer.  The Alembic provides a Rollup infrastructure as a service that both preserves interoperability with Ethereum and maximises security. 
+>
+>The Alembic favours full compatibility with Ethereum Virtual Machine for total portability of existing smart contracts and wallets. Rollups based on Optimism are already live in production and support for Polygon zkEVM is planned.
+>
+>With the Alembic app-chains, applications are guaranteed for a future proof and long term support of the Ethereum roadmap.
 
-The Alembic smart-contract suite is designed to manage NFT use cases in Web3 projects.  The entire codebase has been both audited and battle-tested by tens of thousands of unique users.  Covered stories range from:
 
-- NFT distribution, with or without allow list, voucher control and gating,
-- NFT Rental, with or without collateral, reward distribution and sub-rental,
-- NFT Crafting, with or without lootbox, token (ERC20 or NFT) sources and market price control,
-- Advanced DeFi protocol integrations
+## Made with Alembic platform
 
-[GO to Public REPO]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla.
 
-### ⚗️ Indexing Engine & Transaction Relaying
+>### Discord Bot
+>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla. [Read the usecase](/usecases/discord)
 
-An indexing and querying engine beats at the heart of the Alembic. Its powerful set of listeners retrieve and store blockchain events. The engine gives a cheap and efficient access to consistent on-chain data in motion, even in cases of reorgs or inconsistencies.
+>### Cometh Battle
+>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla. [Read the usecase](/usecases/discord)
 
-The complexity of writing in the blockchain, wether it is for the application or its users, is taken care of by the Alembic transaction relay service.  It offers a seamless experience that gets rid of the edge cases and gas management hiccups. [Read the doc]
+## Integration and engineering services
 
-### ⚗️ App-chain: Rollup as a service
+The integration team supports the creation of web3 project from both startups and large companies. Get in touch to know more about the Alembic and integration services.
 
-The most blockchain heavy applications need their own execution layer.  The Alembic provides a Rollup infrastructure as a service that both preserves interoperability with Ethereum and maximises security. 
-
-The Alembic favours full compatibility with Ethereum Virtual Machine for total portability of existing smart contracts and wallets. Rollups based on Optimism are already live in production and support for Polygon zkEVM is planned.
-
-With the Alembic app-chains, applications are guaranteed for a future proof and long term support of the Ethereum roadmap.
+It worked for us, let it work for you.

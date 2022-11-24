@@ -78,7 +78,8 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: $spacing-unit;
+  margin-left: $spacing-unit/1.5;
+  list-style-type: lower-greek;
 }
 
 li {
@@ -97,14 +98,27 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
-
+h1{
+  font-size: 3em;
+  font-weight: 900;
+  margin-bottom: 0;
+}
+h2{
+  font-size: 2em;
+  font-weight: 700;
+  padding-top:1em;
+}
+h3{
+  font-size: 1.3em;
+  font-weight: 700;
+}
 
 /**
  * Links
  */
 a {
   color: $brand-color;
-  text-decoration: none;
+  text-decoration: underline;
 
   &:visited {
     color: darken($brand-color, 15%);
@@ -129,15 +143,19 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
-  font-style: italic;
+  //color: $grey-color;
+  border-left: 2px solid #E7E4DD;
+  padding-left: $spacing-unit;
+  //@include relative-font-size(1.125);
+  //letter-spacing: -1px;
+  //font-style: italic;
+  margin: $spacing-unit*1.5 auto;
 
   > :last-child {
     margin-bottom: 0;
+  }
+  h3{
+    margin-bottom: 5px;
   }
 }
 
