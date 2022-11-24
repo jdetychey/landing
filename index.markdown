@@ -5,14 +5,14 @@
 layout: home
 ---
 
-# Alembic
+# alembic
 Products & services to <span class="ighlight-container"><span class="ighlight">build and operate Web3 applications.</span></span>
 
 
 ## Our history
 
 We are a team of Blockchain veterans.
-Since 2016, we have participated in the democratization of this technology.  From crypto-currency mining to the creation of smart-contracts, we have spent the last 6 years exploring the potential and challenges of decentralized systems with industry leaders.
+Since 2016, we have participated in the democratization of this technology. From crypto-currency mining to the creation of smart-contracts, we have spent the last 6 years exploring the potential and challenges of decentralized systems with industry leaders.
 
 In 2021, our team of enthusiasts came together to create Cometh with the ambition to exploit the benefits of blockchain in a game.  Regardless of our experience, managing several thousand users on our web3 application has proven to be very complex. Testing out frameworks for our own use, for friend and partner projects, we developed an internal tool suite under the code name: *Alembic* ⚗️.
 
@@ -28,24 +28,22 @@ The platform architecture has 4 main layers which can be used together or separa
 
 >### Specialized APIs
 >
->An application cannot efficiently fetch data from a blockchain node RPC endpoint.  The Alembic exposes robust yet flexible specialized APIs to launch Blockchain products.  The complexity is abstracted for all monetization and front-end use cases (NFT Metadata, AMM, Marketplace, Rental system). {read the doc}
+>An application cannot efficiently fetch data from a blockchain node RPC endpoint.  The Alembic exposes robust yet flexible specialized APIs to launch Blockchain products. The complexity is abstracted for all monetization and front-end use cases (NFT Metadata, AMM, Marketplace, Rental system).
 
 >### Smart-Contract suite
 >
->The Alembic smart-contract suite is designed to manage NFT use cases in Web3 projects.  The entire codebase has been both audited and battle-tested by tens of thousands of unique users.  Covered stories range from:
+>The Alembic smart-contract suite is designed to manage NFT use cases in Web3 projects.  The entire codebase has been both audited and battle-tested by tens of thousands of unique users. Covered stories range from:
 >
 >- NFT distribution, with or without allow list, voucher control and gating,
 >- NFT Rental, with or without collateral, reward distribution and sub-rental,
 >- NFT Crafting, with or without lootbox, token (ERC20 or NFT) sources and market price control,
 >- Advanced DeFi protocol integrations
->
->[Public repository](/usecases/discord)
 
 >### Indexing Engine & Transaction Relaying
 >
 >An indexing and querying engine beats at the heart of the Alembic. Its powerful set of listeners retrieve and store blockchain events. The engine gives a cheap and efficient access to consistent on-chain data in motion, even in cases of reorgs or inconsistencies.
 >
->The complexity of writing in the blockchain, wether it is for the application or its users, is taken care of by the Alembic transaction relay service.  It offers a seamless experience that gets rid of the edge cases and gas management hiccups. [Read the documentation](/usecases/discord)
+>The complexity of writing in the blockchain, wether it is for the application or its users, is taken care of by the Alembic transaction relay service. It offers a seamless experience that gets rid of the edge cases and gas management hiccups. [Read more](/usecases/discord) [Watch the video](/usecases/discord)
 
 >### App-chain: Rollup as a service
 >
