@@ -34,7 +34,7 @@ The platform architecture has 4 main layers which can be used together or separa
 
 An application cannot efficiently fetch data from a blockchain node RPC endpoint.  The Alembic exposes robust yet flexible specialized APIs to launch Blockchain products.  The complexity is abstracted for all monetization and front-end use cases (NFT Metadata, AMM, Marketplace, Rental system). {read the doc}
 
-## ⚗️ Smart-Contract suite
+### ⚗️ Smart-Contract suite
 
 The Alembic smart-contract suite is designed to manage NFT use cases in Web3 projects.  The entire codebase has been both audited and battle-tested by tens of thousands of unique users.  Covered stories range from:
 
@@ -58,21 +58,3 @@ The most blockchain heavy applications need their own execution layer.  The Alem
 The Alembic favours full compatibility with Ethereum Virtual Machine for total portability of existing smart contracts and wallets. Rollups based on Optimism are already live in production and support for Polygon zkEVM is planned.
 
 With the Alembic app-chains, applications are guaranteed for a future proof and long term support of the Ethereum roadmap.
-
-## Made with Alembic platform
-
-
-
-### FDJ Web3 Project
-
-Française des Jeux, known as FDJ, is the operator of France’s national lottery. It offers gaming to the general public in the form of lottery games and sports betting (ParionsSport), available from physical outlets and online. 
-
-## Integration and engineering services
-
-The integration team supports the creation of web3 project from both startups and large companies. Get in touch to know more about the Alembic and integration services.
-
- [todo insert form]
-
-⚗️
-
-It worked for us, let it work for you.
