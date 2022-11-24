@@ -39,7 +39,7 @@ The platform architecture has 4 main layers which can be used together or separa
 >- NFT Crafting, with or without lootbox, token (ERC20 or NFT) sources and market price control,
 >- Advanced DeFi protocol integrations
 >
->[Watch the video](/usecases/discord)
+>[Watch the video](https://www.youtube.com/watch?v=p4vLq5_D-cQ)
 
 >### Indexing Engine & Transaction Relaying
 >
