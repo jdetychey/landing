@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla al
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla. [Read the usecase](/usecases/discord)
 
 >### Cometh Battle
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla. [Read the usecase](/usecases/discord)
+>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla. [Read the usecase](/usecases/cometh)
 
 ## Integration and engineering services
 
