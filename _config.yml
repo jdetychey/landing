@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are a team of Blockchain veterans. Since 2016, we have participated in the democratization of this technology. From crypto-currency mining to the creation of smart-contracts, we have spent the last 6 years exploring the potential and challenges of decentralized systems with industry leaders.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.alembic.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 

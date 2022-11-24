@@ -6,8 +6,8 @@ layout: home
 ---
 
 # Alembic.tech
+Products & services to <span class="ighlight-container"><span class="ighlight">build and operate Web3 applications.</span></span>
 
-Products & services to build and operate Web3 applications.
 
 ## Our history
 
@@ -70,4 +70,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla al
 
 The integration team supports the creation of web3 project from both startups and large companies. Get in touch to know more about the Alembic and integration services.
 
-It worked for us, let it work for you.
+It worked for us, <span class="circle-sketch-highlight">let it work for you.</span>
