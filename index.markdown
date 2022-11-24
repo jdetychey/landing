@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Alembic.tech
+# Alembic
 Products & services to <span class="ighlight-container"><span class="ighlight">build and operate Web3 applications.</span></span>
 
 
