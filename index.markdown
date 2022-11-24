@@ -58,11 +58,11 @@ The platform architecture has 4 main layers which can be used together or separa
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla.
 
->### Discord Bot
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla. [Read the usecase](/usecases/discord)
+>### Web3 Discord Bot
+>Web3 Bot is a discord bot plugged directly to the blockchain that simplify minting and handling of a NFT collection. Users can create an access list with specified requirements (web2/web3), facilitate mint and the management of NFTs collection.[Read the usecase](/usecases/discord)
 
 >### Cometh Battle
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla. [Read the usecase](/usecases/discord)
+>Developed by Cometh, Cometh Battle is a blockchain free-to-play tactical card game where you can own, trade and rent your NFT cards and spaceships. Since the launch of its public beta in May 2022, Cometh Battle has gathered over 17,000 players and recorded more than 600,000 games sessions. Fully powered by Alembic technologies, Cometh Battle showcases at scale how blockchain is changing the way that games are designed and built, fostering and engaging gamers and developers with the promise of digital ownership of playable assets. [Read the usecase](/usecases/discord)
 
 ## Integration and engineering services
 
