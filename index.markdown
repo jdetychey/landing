@@ -36,11 +36,12 @@ The platform architecture has 4 main layers which can be used together or separa
 >The Alembic smart-contract suite is designed to manage NFT use cases in Web3 projects.  The entire codebase has been both audited and battle-tested by tens of thousands of unique users. Covered stories range from:
 >
 >- NFT distribution, with or without allow list, voucher control and gating,
->- NFT Rental, with or without collateral, reward distribution and sub-rental,
->- NFT Crafting, with or without lootbox, token (ERC20 or NFT) sources and market price control,
+>- NFT Rental, with or without collateral, reward distribution and sub-rental [watch the video](https://www.youtube.com/watch?v=p4vLq5_D-cQ),
+>- NFT Crafting, with or without lootbox, token (ERC20 or NFT) sources and market price control [watch the video]( https://www.youtube.com/watch?v=3jN-AewUgfI),
 >- Advanced DeFi protocol integrations
 >
 >[📽  Watch the video](https://www.youtube.com/watch?v=p4vLq5_D-cQ){:class="CTA"}
+
 
 >### Indexing Engine & Transaction Relaying
 >
