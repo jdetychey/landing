@@ -50,7 +50,7 @@
     top:-0.1em;
     border-width:2px;
     border-style:solid;
-    border-color:#d9e044;
+    border-color:#dcd7ce;
     position:absolute;
     border-right-color:transparent;
     width:100%;
@@ -68,7 +68,7 @@
     padding:0.1em 0.25em;
     border-width:2px;
     border-style:solid;
-    border-color:#d9e044;
+    border-color:#dcd7ce;
     border-left-color:transparent;
     border-top-color:transparent;
     position:absolute;
@@ -82,4 +82,14 @@
   .img-responsive{
     margin-top: 2.5em;
     margin-bottom: 1em;
+  }
+
+  .CTA{
+    text-decoration: none;
+    /* font-weight: bold; */
+    /* display: block; */
+    /* border: 1px solid; */
+    background: #f2ede2;
+    padding: 6px 10px;
+    border-radius: 5px;
   }

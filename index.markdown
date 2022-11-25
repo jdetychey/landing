@@ -40,7 +40,7 @@ The platform architecture has 4 main layers which can be used together or separa
 >- NFT Crafting, with or without lootbox, token (ERC20 or NFT) sources and market price control,
 >- Advanced DeFi protocol integrations
 >
->[Watch the video](https://www.youtube.com/watch?v=p4vLq5_D-cQ)
+>[📽  Watch the video](https://www.youtube.com/watch?v=p4vLq5_D-cQ){:class="CTA"}
 
 >### Indexing Engine & Transaction Relaying
 >
@@ -74,7 +74,7 @@ Part of the Animoca Brands’ family, Darewise Entertainment strongly believes i
 >Web3 Bot is a discord bot plugged directly to the blockchain that simplify minting and handling of a NFT collection. Users can create an access list with specified requirements (web2/web3), facilitate mint and the management of NFTs collection. [Read the usecase](/usecases/discord)
 
 >### Cometh Battle
-
+>
 >Developed by Cometh, Cometh Battle is a blockchain free-to-play tactical card game where you can own, trade and rent your NFT cards and spaceships. Since the launch of its public beta in May 2022, Cometh Battle has gathered over 17,000 players and recorded more than 600,000 games sessions. Fully powered by Alembic technologies, Cometh Battle showcases at scale how blockchain is changing the way that games are designed and built, fostering and engaging gamers and developers with the promise of digital ownership of playable assets. [Read the usecase](/usecases/discord)
 
 ## Integration and engineering services
@@ -82,3 +82,7 @@ Part of the Animoca Brands’ family, Darewise Entertainment strongly believes i
 The integration team supports the creation of web3 project from both startups and large companies. Get in touch to know more about the Alembic and integration services.
 
 It worked for us, <span class="circle-sketch-highlight">let it work for you.</span>
+
+
+[📇  Contact us](mailto: contact+alembic@cometh.io){:class="CTA"}
+
