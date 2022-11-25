@@ -8,7 +8,6 @@ layout: home
 # alembic
 Products & services to <span class="ighlight-container"><span class="ighlight">build and operate Web3 applications.</span></span>
 
-
 ## Our history
 
 We are a team of Blockchain veterans.
@@ -24,7 +23,9 @@ Whatever the quality of the content and the perceived value of the blockchain, s
 
 The Alembic was iteratively crafted for us to onboard thousands of users unfamiliar with cryptocurrency or blockchain.  We had to withstand traction on an initially naive tech stack and we gradually optimized each component.  
 
-The platform architecture has 4 main layers which can be used together or separately :
+The platform architecture has 4 main layers which can be used together or separately
+
+![Pragmatic web3 develoment schema](/assets/alembic.jpg){:class="img-responsive"}
 
 >### Specialized APIs
 >
