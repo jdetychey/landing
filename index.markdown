@@ -11,19 +11,17 @@ Products & services to <span class="ighlight-container"><span class="ighlight">b
 ## Our history
 
 We are a team of Blockchain veterans.
-Since 2016, we have participated in the democratization of this technology. From crypto-currency mining to the creation of smart-contracts, we have spent the last 6 years exploring the potential and challenges of decentralized systems with industry leaders.
+Since 2016, we have  actively contributed to the democratization of this technology.  From crypto-currency mining to the creation of smart-contracts, we have spent the last 6 years exploring the potential and challenges of decentralized systems with industry leaders.
 
-In 2021, our team of enthusiasts came together to create Cometh with the ambition to exploit the benefits of blockchain in a game.  Regardless of our experience, managing several thousand users on our web3 application has proven to be very complex. Testing out frameworks for our own use, for friend and partner projects, we developed an internal tool suite under the code name: *Alembic* ⚗️.
+In 2021, our team of enthusiasts came together to create Cometh with the ambition to harness all the benefits of blockchain in a video game.  Regardless of our experience, managing several thousand users on our web3 applications has proven to be very complex. We tested out many frameworks for our own use, as well as for friends’ and partners’ projects. This led us to develop a tool suite in-house named Alembic ⚗️.
 
 ## The pragmatic web3 development platform
 
-Whether you are taking your brand for a first step into web3, releasing a collection of NFT, building a video game, a marketplace, or even a decentralized finance project, your users will always expect a web2 experience.
+Whether you're taking your brand's first steps into Web3, publishing a collection of NFTs, building a video game, a marketplace or even a decentralized finance project, your users will always expect the legacy Web2 experience. Regardless the quality of the content and the perceived value of the blockchain, success will always come along with the easiest on-boarding and frictionless transaction. 
 
-Whatever the quality of the content and the perceived value of the blockchain, success will always come along with the simplest onboarding and the least transaction friction. 
+The Alembic was iteratively crafted to onboard thousands of users unfamiliar with cryptocurrency or blockchain. It has a proven track record of successfully handling thousands of requests and providing high quality blockchain services to critical applications. 
 
-The Alembic was iteratively crafted for us to onboard thousands of users unfamiliar with cryptocurrency or blockchain.  We had to withstand traction on an initially naive tech stack and we gradually optimized each component.  
-
-The platform architecture has 4 main layers which can be used together or separately
+The platform has 4 main layers which can be used together or separately. 
 
 ![Pragmatic web3 develoment schema](/assets/alembic.jpg){:class="img-responsive"}
 
