@@ -38,12 +38,14 @@ The platform architecture has 4 main layers which can be used together or separa
 >- NFT Rental, with or without collateral, reward distribution and sub-rental,
 >- NFT Crafting, with or without lootbox, token (ERC20 or NFT) sources and market price control,
 >- Advanced DeFi protocol integrations
+>
+>[Watch the video](https://www.youtube.com/watch?v=p4vLq5_D-cQ)
 
 >### Indexing Engine & Transaction Relaying
 >
 >An indexing and querying engine beats at the heart of the Alembic. Its powerful set of listeners retrieve and store blockchain events. The engine gives a cheap and efficient access to consistent on-chain data in motion, even in cases of reorgs or inconsistencies.
 >
->The complexity of writing in the blockchain, wether it is for the application or its users, is taken care of by the Alembic transaction relay service. It offers a seamless experience that gets rid of the edge cases and gas management hiccups. [Read more](/usecases/discord) [Watch the video](/usecases/discord)
+>The complexity of writing in the blockchain, wether it is for the application or its users, is taken care of by the Alembic transaction relay service. It offers a seamless experience that gets rid of the edge cases and gas management hiccups. [Read more](/usecases/discord)
 
 >### App-chain: Rollup as a service
 >
@@ -56,13 +58,23 @@ The platform architecture has 4 main layers which can be used together or separa
 
 ## Made with Alembic platform
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla.
+Alembic supports all businesses, large and small.
+From pioneering startups in the gaming industry to large companies with innovative Web3 projects, Alembic's platform adapts to all types of needs.
+Here are some of the most innovative stories from our customers about how they are using the Alembic Tool Suite to give life and deploy/land their Web3 projects.
 
->### Discord Bot
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla. [Read the usecase](/usecases/discord)
+>### NFTs Operation for Darewise Entertainment
+>Darewise Entertainment is a European video game studio founded by veterans of the AAA games industry that is currently developing the high quality science-fiction MMO Life Beyond powered by web3 and blockchain technologies.
+Part of the Animoca Brands’ family, Darewise Entertainment strongly believes in the positive power of online video games to create meaningful, interactive, and social experiences.
+
+>### FDJ Web3 Project
+>Française des Jeux, known as FDJ, is the operator of France’s national lottery. FDJ offers secure, enjoyable and responsible gaming to the general public in the form of lottery games and sports betting (ParionsSport), available from physical outlets and online.
+
+>### Web3 Discord Bot
+>Web3 Bot is a discord bot plugged directly to the blockchain that simplify minting and handling of a NFT collection. Users can create an access list with specified requirements (web2/web3), facilitate mint and the management of NFTs collection. [Read the usecase](/usecases/discord)
 
 >### Cometh Battle
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nulla aliquam, sollicitudin felis non, vehicula felis. Sed sagittis ipsum in orci pulvinar, vitae porttitor felis consectetur. Donec volutpat, enim ut lacinia tempus, nulla orci cursus libero, feugiat luctus metus libero id nulla. [Read the usecase](/usecases/cometh)
+
+>Developed by Cometh, Cometh Battle is a blockchain free-to-play tactical card game where you can own, trade and rent your NFT cards and spaceships. Since the launch of its public beta in May 2022, Cometh Battle has gathered over 17,000 players and recorded more than 600,000 games sessions. Fully powered by Alembic technologies, Cometh Battle showcases at scale how blockchain is changing the way that games are designed and built, fostering and engaging gamers and developers with the promise of digital ownership of playable assets. [Read the usecase](/usecases/discord)
 
 ## Integration and engineering services
 
