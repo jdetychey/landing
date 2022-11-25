@@ -46,7 +46,7 @@ The platform architecture has 4 main layers which can be used together or separa
 >
 >An indexing and querying engine beats at the heart of the Alembic. Its powerful set of listeners retrieve and store blockchain events. The engine gives a cheap and efficient access to consistent on-chain data in motion, even in cases of reorgs or inconsistencies.
 >
->The complexity of writing in the blockchain, wether it is for the application or its users, is taken care of by the Alembic transaction relay service. It offers a seamless experience that gets rid of the edge cases and gas management hiccups. [Read more](/usecases/discord)
+>The complexity of writing in the blockchain, wether it is for the application or its users, is taken care of by the Alembic transaction relay service. It offers a seamless experience that gets rid of the edge cases and gas management hiccups. [Read more](/indexer)
 
 >### App-chain: Rollup as a service
 >
@@ -55,6 +55,8 @@ The platform architecture has 4 main layers which can be used together or separa
 >The Alembic favours full compatibility with Ethereum Virtual Machine for total portability of existing smart contracts and wallets. Rollups based on Optimism are already live in production and support for Polygon zkEVM is planned.
 >
 >With the Alembic app-chains, applications are guaranteed for a future proof and long term support of the Ethereum roadmap.
+>
+>  [Read more](/app-chain)
 
 
 ## Made with Alembic platform
